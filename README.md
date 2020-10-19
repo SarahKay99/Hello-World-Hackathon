@@ -1,60 +1,61 @@
-# Hello-World-Hackathon
+# Hello-World-Hackathon: IN PROGRESS
 18 Challenges
-DOT Payout Address: 
+
+DOT Payout Address: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
 
 1. 
-PROBLEM LINK: https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023945
+PROBLEM LINK: Deploy to Phala Network https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023945
 SUBMISSION: 
-PAYOUT ADDRESS:
-FIRST 50 (Y/N): 
+PAYOUT ADDRESS: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
+FIRST 50 (Y/N): N
 
 2. 
-PROBLEM LINK:
+PROBLEM LINK: Set An Identity On Polkadot's Development Version https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/11/100023937
 SUBMISSION: 
-PAYOUT ADDRESS:
-FIRST 50 (Y/N):
+PAYOUT ADDRESS: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
+FIRST 50 (Y/N): N
 
 3.
-PROBLEM LINK:
+PROBLEM LINK: Westend
 SUBMISSION: 
-PAYOUT ADDRESS:
-FIRST 50 (Y/N)
+PAYOUT ADDRESS: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
+FIRST 50 (Y/N): N
 
 4.
-PROBLEM LINK:
+PROBLEM LINK: Substrate Image
 SUBMISSION: 
-PAYOUT ADDRESS:
-FIRST 50 (Y/N)
+PAYOUT ADDRESS: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
+FIRST 50 (Y/N): Y
 
 5.
-PROBLEM LINK:
+PROBLEM LINK: Moonbeam Truffle
 SUBMISSION: 
-PAYOUT ADDRESS:
-FIRST 50 (Y/N):
+PAYOUT ADDRESS: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
+FIRST 50 (Y/N): Y
 
 6.
-PROBLEM LINK:
+PROBLEM LINK: Moonbeam Remix & Metamask
 SUBMISSION: 
 PAYOUT ADDRESS:
-FIRST 50 (Y/N):
+FIRST 50 (Y/N): Y
 
 7.
-PROBLEM LINK:
+PROBLEM LINK: First Soldity Smart Contract to Plasm Network
 SUBMISSION: 
-PAYOUT ADDRESS:
-FIRST 50: (Y/N):
+PAYOUT ADDRESS: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
+FIRST 50: (Y/N): Y
 
 8.
-PROBLEM LINK:
+PROBLEM LINK: Solidity Auction Smart Contract
 SUBMISSION: 
-PAYOUT ADDRESS:
-FIRST 50 (Y/N):
+PAYOUT ADDRESS: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
+FIRST 50 (Y/N): 
 
 9. 
-PROBLEM LINK:
+PROBLEM LINK: Polkadot or Kusama Telemetry Node https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/12/100023938
 SUBMISSION: 
-PAYOUT ADDRESS:
-FIRST 50 (Y/N): 
+PAYOUT ADDRESS: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
+FIRST 50 (Y/N): N
 
 10:
 PROBLEM LINK:
