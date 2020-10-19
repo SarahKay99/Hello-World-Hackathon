@@ -4,10 +4,10 @@
 DOT Payout Address: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
 
 1. 
-PROBLEM LINK: Deploy to Phala Network https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023945
-SUBMISSION: 
-PAYOUT ADDRESS: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
-FIRST 50 (Y/N): N
+- PROBLEM LINK: Deploy to Phala Network https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023945
+- SUBMISSION: 
+- PAYOUT ADDRESS: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
+- FIRST 50 (Y/N): N
 
 2. 
 PROBLEM LINK: Set An Identity On Polkadot's Development Version https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/11/100023937
