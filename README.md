@@ -11,7 +11,7 @@
 - **SUBMISSION:** https://github.com/SarahKay99/Local-Phala-Network
 - **PAYOUT ADDRESS:** 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
 - **COMPLETE:** Y
-- **FIRST 50 (Y/N):** M
+- **FIRST 50 (Y/N):** Y
 
 2.
 - **TITLE:** Build the First Confidential Contract
