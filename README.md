@@ -16,8 +16,8 @@
 2.
 - **TITLE:** Build the First Confidential Contract
 - **LINK:** https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/2/100023947
-- **SUBMISSION:**
-- **PAYOUT ADDRESS:**
+- **SUBMISSION:** https://github.com/SarahKay99/Local-Phala-Network-Confidential-Contract
+- **PAYOUT ADDRESS:** 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
 - **COMPLETE:** N
 - **FIRST 50 (Y/N):** M
 
