@@ -1,10 +1,10 @@
 # Hello-World-Hackathon: IN PROGRESS
 18+ Challenges
 
-DOT Payout Address: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
-KSM Payout Address: FRYYC6UR4SMCLBss7FvEHYo5N24fiy2H2U4sUUN2aaBH8ir
+- DOT Payout Address: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
+- KSM Payout Address: FRYYC6UR4SMCLBss7FvEHYo5N24fiy2H2U4sUUN2aaBH8ir
 
-==== PHALA NETWORK ===
+# ==== PHALA NETWORK ===
 1. 
 - **TITLE**: Deploy Node to Phala Network 
 - **LINK**: https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023945
@@ -21,7 +21,7 @@ KSM Payout Address: FRYYC6UR4SMCLBss7FvEHYo5N24fiy2H2U4sUUN2aaBH8ir
 - **COMPLETE:** N
 - **FIRST 50 (Y/N):** M
 
-=== MOONBEAM NETWORK ===
+# === MOONBEAM NETWORK ===
 3.
 - **TITLE:** Moonbeam Alpha Truffle
 - **PROBLEM LINK:** https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953
@@ -38,7 +38,7 @@ KSM Payout Address: FRYYC6UR4SMCLBss7FvEHYo5N24fiy2H2U4sUUN2aaBH8ir
 - **COMPLETE:** Y
 - **FIRST 50 (Y/N):** Y
 
-=== ACALA NETWORK ===
+# === ACALA NETWORK ===
 5:
 - **TITLE:** ACALA Multi-Currency Support
 - **PROBLEM LINK:** https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
@@ -55,7 +55,7 @@ KSM Payout Address: FRYYC6UR4SMCLBss7FvEHYo5N24fiy2H2U4sUUN2aaBH8ir
 - **COMPLETE:** N
 - **FIRST 50 (Y/N):** Y
 
-=== PLASM NETWORK ===
+# === PLASM NETWORK ===
 7.
 - **TITLE**: First Soldity Smart Contract to Plasm Network
 - **PROBLEM LINK:** https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/6/100023960
@@ -72,7 +72,7 @@ KSM Payout Address: FRYYC6UR4SMCLBss7FvEHYo5N24fiy2H2U4sUUN2aaBH8ir
 - **COMPLETE:** N
 - **FIRST 50 (Y/N):** M
 
-=== POLKADOT ===
+# === POLKADOT ===
 9.
 - **TITLE:** Westend
 - **LINK:** https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/15/100023941
