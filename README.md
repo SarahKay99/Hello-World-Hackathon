@@ -1,5 +1,6 @@
 # Hello-World-Hackathon: IN PROGRESS
-18+ Challenges
+GOAL: 18+ Challenges
+SO FAR: 7 Challenges 
 
 - DOT Payout Address: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
 - KSM Payout Address: FRYYC6UR4SMCLBss7FvEHYo5N24fiy2H2U4sUUN2aaBH8ir
