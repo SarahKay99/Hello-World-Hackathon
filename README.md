@@ -1,5 +1,6 @@
 # Hello-World-Hackathon: IN PROGRESS
 GOAL: 18+ Challenges
+
 SO FAR: 7 Challenges 
 
 - DOT Payout Address: 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
