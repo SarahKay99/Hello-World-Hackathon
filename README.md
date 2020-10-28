@@ -1,5 +1,5 @@
 # Hello-World-Hackathon: IN PROGRESS
-*The Hello World Hackathon is a challenge hosted on Gitcoin.co, for beginners to get involved in Blockchain development. https://gitcoin.co/hackathon/polkadot?*
+*The Hello World Hackathon is a challenge hosted on Gitcoin.co, for beginners to get involved in Blockchain development. It is funded by the cryptocurrencies Polkadot and Kusama. https://gitcoin.co/hackathon/polkadot?*
 
 GOAL: 18+ Challenges
 
